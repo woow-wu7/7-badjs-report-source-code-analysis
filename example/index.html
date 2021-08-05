@@ -1,0 +1,31 @@
+<!Doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>example</title>
+    <script src="../src/bj-report.js"></script>
+    <script src="../src/bj-wrap.js"></script>
+    <script src="../node_modules/requirejs/require.js"></script>
+</head>
+<body>
+    <script>
+
+        //初始化
+        BJ_REPORT.init({id: 7  , uin : 55555, random: 1 , url:"http://127.0.0.1/badjs"})
+
+        //主动上报错误日志
+        BJ_REPORT.report("error msg 2");
+
+        //info上报，用于记录操作日志
+        BJ_REPORT.info("info");
+
+        //可以结合实时上报，跟踪问题; 不存入存储
+        BJ_REPORT.debug("debug");
+
+        //记录离线日志
+        BJ_REPORT.offlineLog("offlineLog");
+
+
+    </script>
+</body>
+</html>
