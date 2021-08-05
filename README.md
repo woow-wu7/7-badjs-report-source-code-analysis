@@ -8,7 +8,7 @@ badjs-report -- 前端日志上报与JS异常监控 -- 源码分析
 [原仓库地址](https://github.com/BetterJS/badjs-report)
 
 ### 思维导图
-[思维导图](https://github.com/woow-wu7/badjs-report/tree/master/src/images/badjs.png)
+[思维导图](https://github.com/woow-wu7/7-badjs-report-analysis/tree/main/src/images/badjs.png)
 
 ### badJs总体架构
 [badJs总体架构](https://github.com/BetterJS/doc)
