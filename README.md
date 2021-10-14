@@ -5,7 +5,7 @@ badjs-report -- 前端日志上报与JS异常监控 -- 源码分析
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/BetterJS?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 #### 思维导图
-[源码-思维导图](https://github.com/woow-wu7/7-badjs-report-analysis/tree/main/src/images/xmind/png/badjs.png)
+[源码-思维导图](https://github.com/woow-wu7/7-badjs-report-analysis/tree/main/src/images/badjs.png)
 
 #### 原仓库地址
 [原仓库地址](https://github.com/BetterJS/badjs-report)
